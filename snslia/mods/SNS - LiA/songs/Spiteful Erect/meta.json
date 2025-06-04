@@ -1,8 +1,17 @@
 {
-	"displayName": "Spiteful Erect",
-	"bpm": 119.640,
-	"icon": "dad",
-	"color": "#9271FD",
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
 	"coopAllowed": true,
-	"opponentModeAllowed": true
+	"stepsPerBeat": 4,
+	"bpm": 120,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -7179779,
+	"displayName": "Spiteful Erect",
+	"icon": "dad",
+	"name": "Spiteful Erect",
+	"color": "#9271FD",
+	"customValues": {}
 }
